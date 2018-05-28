@@ -1,37 +1,43 @@
 {
-    "name": "awobaz/blade-active",
-    "description": "Laravel Blade directives for the watson/active package",
-    "license": "MIT",
-    "keywords": [
-        "laravel",
-        "active link",
-        "current url",
-        "routing"
-    ],
-    "authors": [
-        {"name": "Claudin J. Daniel", "email": "cdaniel@awobaz.com"}
-    ],
-    "require": {
-      "php": ">=5.5.0",
-      "watson/active": "~2.0.6"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "5.*",
-        "laravel/laravel": "~5.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "Awobaz\\BladeActive\\": "src"
-        },
-        "files": [
-
-        ]
-    },
-    "extra": {
-      "laravel": {
-        "providers": [
-          "Awobaz\\BladeActive\\BladeActiveServiceProvider"
-        ]
-      }
+  "name": "awobaz/blade-active",
+  "description": "Laravel Blade directives for the watson/active package",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "active link",
+    "current url",
+    "routing"
+  ],
+  "authors": [
+    {
+      "name": "Claudin J. Daniel",
+      "email": "cdaniel@awobaz.com"
     }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "watson/active": "~2.0.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.*",
+    "laravel/laravel": "~5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Awobaz\\BladeActive\\": "src"
+    },
+    "files": [
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Awobaz\\BladeActive\\BladeActiveServiceProvider"
+      ]
+    }
+  },
+  "suggest": {
+    "awobaz/compoships": "Multi-columns relationships for Laravel 5's Eloquent",
+    "awobaz/syntactic": "Syntactic sugar for named and indexed parameters call."
+  }
 }
