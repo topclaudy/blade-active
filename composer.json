@@ -1,6 +1,5 @@
 {
     "name": "awobaz/blade-active",
-    "version": "1.0.0",
     "description": "Laravel Blade directives for the watson/active package",
     "license": "MIT",
     "keywords": [
