@@ -28,7 +28,7 @@ First, read the documentation of the [Active](https://github.com/dwightwatson/ac
 <a href="{{ route('posts.index') }}" class="@active('posts.index')">All posts</a>
 ```
 
-### Using @active()
+### Using @isactive()
 
 ```php
 @isactive('posts/*')
