@@ -49,6 +49,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * [Claudin J. Daniel](https://github.com/topclaudy) - *Blade directives*
 * [Dwight Watson](https://github.com/dwightwatson) - *Initial work*
 
+## Sponsored by
+
+* [Awobaz](https://awobaz.com) - Web/Mobile agency based in Montreal, Canada
+
 ## License
 
 **Blade Active** is licensed under the [MIT License](http://opensource.org/licenses/MIT).
