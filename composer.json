@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "watson/active": "~2.0.6"
+    "watson/active": "~4.0.0"
   },
   "require-dev": {
     "phpunit/phpunit": "5.*",
