@@ -16,11 +16,11 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "watson/active": "~6.0.0"
+    "watson/active": "~6.1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "5.*",
-    "laravel/laravel": "~5.4|^6.0|^7.0|~8.0"
+    "laravel/laravel": "~5.4|^6.0|^7.0|~8.0|~9.0"
   },
   "autoload": {
     "psr-4": {
